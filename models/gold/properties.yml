@@ -1,0 +1,4 @@
+# models:
+#   - name: gold_avg_rating__daily
+#     config:
+#       schema: gold
