@@ -1,8 +1,10 @@
--- {{
---     config(
---         schema = 'gold'
---     )
--- }}
+{#
+{{
+    config(
+        schema = 'gold'
+    )
+}}
+#}
 
 SELECT
     o.order_date,
